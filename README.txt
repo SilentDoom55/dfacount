@@ -1,0 +1,1 @@
+Given a description of a DFA and an integer k, this determines the number of strings of length k that the DFA accepts, mod 10^9 +7
